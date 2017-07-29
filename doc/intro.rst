@@ -78,7 +78,13 @@ Put image in a second cell of 3 columns and 1 row
 
 A slide with centered, huge text and no title
 
+.. class:: handout left
 
+If you don't want your notes to also be centered add 'left' to
+pages you have centered.
+
+* thing 1
+* thing 2
 
 Source code
 -----------
